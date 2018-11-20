@@ -21,7 +21,7 @@ Controls
 ------------
 * DesignerControl
 * ToolboxControl
-* Propertybox
+* PropertyboxControl
 
 Demo
 ------------
