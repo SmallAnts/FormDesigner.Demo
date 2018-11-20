@@ -10,7 +10,7 @@ Link [https://www.nuget.org/packages/Smart.FormDesigner](https://www.nuget.org/p
 
 Requirements
 ------------
-* .NET Framework 2.0 and above.
+* .NET Framework 4.0 and above.
 
 Components
 ------------
