@@ -9,20 +9,20 @@ Link [https://www.nuget.org/packages/Smart.FormDesigner](https://www.nuget.org/p
 
 **Requirements**
 ```
-*.NET Framework 4.0 and above.
+* .NET Framework 4.0 and above.
 ```
 
 **Components**
 ```
-*Designer
-*DefaultDesignerLoader
+* Designer
+* DefaultDesignerLoader
 ```
 
 **Controls**
 ```
-*DesignerControl
-*ToolboxControl
-*Propertybox
+* DesignerControl
+* ToolboxControl
+* Propertybox
 ```
 
 ![Demo](https://github.com/SmallAnts/FormDesigner.Demo/blob/master/images/demo1.png)
