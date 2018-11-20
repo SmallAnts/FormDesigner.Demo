@@ -1,5 +1,5 @@
 # FormDesigner
-winform 自定义表单设计器 custom form designer
+Smart.FormDesigner 是一个基于.NET 开发的 Winform 自定义表单设计组件。
 
 Install via NuGet
 ------------
