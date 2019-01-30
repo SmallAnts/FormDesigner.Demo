@@ -1,5 +1,5 @@
 # Smart.FormDesigner
-FormDesigner 是一个基于.NET C# 开发的 Winform 自定义表单设计组件。支持Xml保存和加载表单，支持控件的拖放和属设置，支持复制、粘贴、对齐、撤销、重做等设计时操作。
+FormDesigner 是一个基于.NET C# 开发的 Winform 自定义表单设计组件。支持Xml保存和加载表单，支持控件的拖放和属性设置，支持复制、粘贴、对齐、撤销、重做等设计时操作。
 
 Install via NuGet
 ------------
