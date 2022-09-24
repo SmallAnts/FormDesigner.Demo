@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Propertybox = new Smart.FormDesigner.Demo.PropertyboxControl();
+            this.Propertybox = new Smart.FormDesigner.PropertyboxControl();
             this.SuspendLayout();
             // 
             // Propertybox
